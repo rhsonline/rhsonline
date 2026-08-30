@@ -651,6 +651,7 @@ footer p {
 
 .service-hero {
     background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("./shop.jpg") center center / cover no-repeat;
+    padding: 65px 7%;
 }
 
 .service-hero > div {
