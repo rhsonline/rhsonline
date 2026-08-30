@@ -739,3 +739,10 @@ footer p {
     }
 
 }
+.logo {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    display: block;
+    margin: 20px auto;
+}
