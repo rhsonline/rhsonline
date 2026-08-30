@@ -650,7 +650,8 @@ footer p {
 }/* SERVICE PAGE */
 
 .service-hero {
-    background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("./shop.jpg") center center / cover no-repeat;
+    background: linear-gradient(110deg, #063d86, #0b65c8);
+    color: white;
     padding: 65px 7%;
 }
 
